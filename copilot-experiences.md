@@ -1,1 +1,5 @@
+**Copilot Chat** is the simplest option and is mainly a conversational AI experience inside Microsoft 365. You use it to ask questions, brainstorm ideas, or learn things, mostly using web data and limited work context. It’s great when you just want quick answers or a thinking partner, without deep access to your company’s data or apps.
 
+**Copilot for Business** (Microsoft 365 Copilot) goes much deeper into your daily work. It’s built directly into apps like Outlook, Teams, Word, Excel, and PowerPoint, and it works securely with your organization’s Microsoft 365 data. You’d use this when you want AI to help you write emails, summarize meetings, analyze documents, or generally be more productive at work.
+
+**Copilot Studio** is different from both because it’s not just for using AI, but for building it. It lets admins and power users create custom Copilot agents with logic, workflows, and connections to Microsoft 365 or external systems. You’d use Copilot Studio when you need tailored AI assistants for business processes, guided conversations, or governed solutions across the organization.
